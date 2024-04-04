@@ -36,12 +36,12 @@ La aplicación utiliza la librería Axios para realizar solicitudes HTTP a una A
 
 ### Pasos para la instalación
 
-1. **Abrir el proyecto**: 
-    - Descomprime el archivo y abre la carpeta my-app con Code
+1. **Clonar el repositorio**: 
+    - Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio en tu máquina local:
 
-    <img src="./assets/Captura de pantalla (26).png" width="500" height="300">
-
-    - Ó abre la carpeta directamente desde Visual Studio Code
+    ```bash
+    git clone https://github.com/HackingMatrix/e_commerce_ReactNative.git
+    ```
 
 2. **Instalar las dependencias del proyecto**:
     - Navega al directorio del proyecto:
